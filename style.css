@@ -4,6 +4,7 @@ html {
 }
 body {
   padding: 10px;
+  margin: 10px
 }
 .wrapper {
   width: 100%;
@@ -11,15 +12,18 @@ body {
 
 
 input {
-  width: 95%
+  width: 100%
+  
 }
 
 textarea {
   height: 200px;
-  width: 95%
+  width: 100%
 }
 button {
   margin: 0px;
 }
+
+
 
 
